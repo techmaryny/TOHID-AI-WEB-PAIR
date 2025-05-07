@@ -91,25 +91,25 @@ router.get('/', async (req, res) => {
 *SESSION GENERATED SUCCESSFULY* ✅
 
 *Gɪᴠᴇ ᴀ ꜱᴛᴀʀ ᴛᴏ ʀᴇᴘᴏ ꜰᴏʀ ᴄᴏᴜʀᴀɢᴇ* 🌟
-https://github.com/Tohidkhan6332/TOHID-AI
+https://github.com/Pkdriller/NEXUS-XMD/fork
 
-*Tᴇʟᴇɢʀᴀᴍ Gʀᴏᴜᴘ* 🌟
-https://t.me/Tohid_Tech
+*Tᴇʟᴇɢʀᴀᴍ ME* 🌟
+https://t.me/dev_pkdrillerbot
 
-*WʜᴀᴛsAᴘᴘ Gʀᴏᴜᴘ* 🌟
-https://chat.whatsapp.com/IqRWSp7pXx8DIMtSgDICGu
+*BUY BOT* 🌟
+https://pkdriller.vercel.app/
 
 *WʜᴀᴛsAᴘᴘ ᴄʜᴇɴɴᴀʟ* 🌟
-https://whatsapp.com/channel/0029VaGyP933bbVC7G0x0i2T
+https://whatsapp.com/channel/0029Vad7YNyJuyA77CtIPX0x
 
 *Yᴏᴜ-ᴛᴜʙᴇ ᴛᴜᴛᴏʀɪᴀʟꜱ* 🌟 
-https://youtube.com/Tohidkhan_6332
+https://www.youtube.com/@Pktech-1911
 
 *ɢɪᴛʜᴜʙ* 🌟
-http://GitHub.com/Tohidkhan6332
+http://GitHub.com/Pkdriller 
 
 *Wᴇʙsɪᴛᴇ* 🌟
-https://tohid-khan-web.vercel.app/
+https://mr-pk-web.vercel.app/
 
 *TOHID-AI--WHATTSAPP-BOT* 🥀
 ` 
